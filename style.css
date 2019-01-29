@@ -1,0 +1,22 @@
+body {
+    background-color: red;
+    font-family: 'Black Han Sans', sans-serif;
+}
+
+.title {
+    text-align: center;
+    font-size: 8rem;
+    color: #fff;
+}
+
+.timer-wrapper {
+    display: flex;
+    justify-content: center;
+}
+
+#timer {
+    font-size: 15rem;
+    color: #fff;
+    text-align: center;
+    margin: 0;
+}
